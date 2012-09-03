@@ -214,6 +214,7 @@ public class ConfigScreen extends AbstractConfigScreen {
     private void initLanguageChoices() {
         languageChoices = new String[] {
                 "BlackBerry",   // System default
+                "\u010cesky",   // Czech: cs
                 "Dansk",        // Danish: da
                 "Deutsch",      // German: de
                 "English",      // English: en
@@ -227,6 +228,7 @@ public class ConfigScreen extends AbstractConfigScreen {
         };
         languageCodes = new String[] {
                 "",   // System default
+                "cs", // Czech
                 "da", // Danish
                 "de", // German
                 "en", // English
