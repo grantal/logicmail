@@ -1425,6 +1425,7 @@ public class ImapProtocol {
             response.name = "";
 
             // Look for flags if present.
+            flagStr = flagStr.toLowerCase();
             response.canSelect = !(flagStr.indexOf(FLAG_NOSELECT) != -1);
             response.hasChildren = (flagStr.indexOf(FLAG_HAS_CHILDREN) != -1);
             response.noInferiors = (flagStr.indexOf(FLAG_NOINFERIORS) != -1);
@@ -2300,10 +2301,10 @@ public class ImapProtocol {
     private static String STARTTLS = "STARTTLS";
     private static String COMPRESS = "COMPRESS";
     private static String DEFLATE = "DEFLATE";
-    private static String FLAG_MARKED = "\\Marked";
-    private static String FLAG_NOINFERIORS = "\\Noinferiors";
-    private static String FLAG_HAS_CHILDREN = "\\HasChildren";
-    private static String FLAG_NOSELECT = "\\Noselect";
+    private static String FLAG_MARKED = "\\marked";
+    private static String FLAG_NOINFERIORS = "\\noinferiors";
+    private static String FLAG_HAS_CHILDREN = "\\haschildren";
+    private static String FLAG_NOSELECT = "\\noselect";
     private static String TAG_PREFIX = "A";
     private static final byte[] NO_PREFIX = "NO ".getBytes();
     private static final byte[] BAD_PREFIX = "BAD ".getBytes();
