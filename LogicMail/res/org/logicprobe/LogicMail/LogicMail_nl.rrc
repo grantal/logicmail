@@ -3,17 +3,17 @@ ABOUT_LICENSE#0={
     "LogicMail is Copyright © 2006-2012, Derek Konigsberg.  Alle rechten voorbehouden.",
     "",
     "Distributie en gebruik in bron en binaire vorm, met of zonder aanpassingen, zijn toegestaan mits aan de volgende voorwaarden is voldaan:",
-    "1. Distributie en gebruik in bron en binaire vorm moeten de bovegenoemde copyright vermelding, deze lijst met voorwaarden en de volgende disclaimer bevatten.",
+    "1. Distributie en gebruik in bron en binaire vorm moeten de bovengenoemde copyright vermelding, deze lijst met voorwaarden en de volgende disclaimer bevatten.",
     "2. Distributie en gebruik in binaire vorm moet de bovengenoemde copyrigt vermelding reproduceren, deze lijst met voorwaarden en de volgende disclaimer bevatten in de documentatie en/of andere materialen die bij de Distributie worden meegeleverd.",
     "3. Nog de naam van het project nog de namen van degenen die bijdragen mogen worden gebruikt om producten te promoten of te onderschrijven die zijn afgeleid van deze software zonder specifieke voorafgaande schriftelijke toestemming.",
     "",
-    "DEZE SOFTWARE WORDT DOOR DE COPYRIGHT HOUDERS EN DEGENEN DIE ERAAN BIJDRAGEN \"ZOALS HET IS\" EN IEDERE GEUITTE OF GEÏMPLICEERDE GARANTIE, INCLUSIEF, MAAR NIET BEPERKT TOT, DE GEÏMPLICEERDE GARANTIES VAN VERKOOPBAARHEID OF GESCHIKTHEID VOOR EEN BIJZONDER DOEL ZIJN AFGEWEZEN. IN GEEN ENKEL GEVAL ZAL DE COPYRIGHT HOUDER OF ZULLEN  EN DEGENEN DIE ERAAN BIJDRAGENS AANSPRAKELIJK ZIJN VOOR ENIGE DIRECTE, INDIRECTE, INCIDENTELE, SPECIALE, EXEMPLARISCHE, OF CONSEQUENTE SCHADE (INCLUSIEF, MAAR NIET BEPERKT TOT, VERSCHAFFING VAN VERVANGENDE GOEDEREN OF DIENSTEN; VERLIES VAN GEBRUIK, DATA, OF WINSTEN?VOORDELEN; OF ONDERBREKING VAN BEDRIJFSVOERING) ONGEACHT DE OORZAAK EN ELKE THEORIE VAN AANSPRAKELIJKHEID, HETZIJ CONTRACTUEEL, STRIKTE AANSPRAKELIJKHEID, DANWEL VERKEERDE HANDELING (INCLUSIEF ACHTELOOSHEID, NONCHALANCE OF ANDERZINS) DIE ZICH VOORDOEN OP WELKE MANIER DAN OOK DOOR/BIJ HET GEBRUIK VAN DEZE SOFTWARE, ZELFS ALS DE MOGELIJKHEID IS AANGEGEVEN DAT ZULKE SCHADE MOGELIJK IS.",
+    "DEZE SOFTWARE WORDT DOOR DE COPYRIGHT HOUDERS EN DEGENEN DIE ERAAN BIJDRAGEN \"ZOALS HET IS\" EN IEDERE GEUITTE OF GEÏMPLICEERDE GARANTIE, INCLUSIEF, MAAR NIET BEPERKT TOT, DE GEÏMPLICEERDE GARANTIES VAN VERKOOPBAARHEID OF GESCHIKTHEID VOOR EEN BIJZONDER DOEL ZIJN AFGEWEZEN. IN GEEN ENKEL GEVAL ZAL DE COPYRIGHT HOUDER OF ZULLEN  EN DEGENEN DIE ERAAN BIJDRAGENS AANSPRAKELIJK ZIJN VOOR ENIGE DIRECTE, INDIRECTE, INCIDENTELE, SPECIALE, EXEMPLARISCHE, OF CONSEQUENTE SCHADE (INCLUSIEF, MAAR NIET BEPERKT TOT, VERSCHAFFING VAN VERVANGENDE GOEDEREN OF DIENSTEN; VERLIES VAN GEBRUIK, DATA, OF WINSTEN/VOORDELEN; OF ONDERBREKING VAN BEDRIJFSVOERING) ONGEACHT DE OORZAAK EN ELKE THEORIE VAN AANSPRAKELIJKHEID, HETZIJ CONTRACTUEEL, STRIKTE AANSPRAKELIJKHEID, DANWEL VERKEERDE HANDELING (INCLUSIEF ACHTELOOSHEID, NONCHALANCE OF ANDERZINS) DIE ZICH VOORDOEN OP WELKE MANIER DAN OOK DOOR/BIJ HET GEBRUIK VAN DEZE SOFTWARE, ZELFS ALS DE MOGELIJKHEID IS AANGEGEVEN DAT ZULKE SCHADE MOGELIJK IS.",
     "",
     "Ikoontjes die in die project zijn gebruikt zijn van het \"Tango Desktop Project\" (http://tango.freedesktop.org/) tenzij anders aangegeven, en zijn of direct of met kleine aanpassingen gebruikt.",
     "",
     "Opmerking: Het gebruik van LogicMail om verbinding te maken met E-Mail servers kan leiden tot rekeningen voor data-gebruik. Neem voor meer informatie a.u.b. contact op met uw service provider.",
 };
-ABOUT_LICENSE_ACCEPT#0="Klik op \"Accept\" om de voorwaarden van de gebruikersovereenkomst te accepteren, of \"Decline\" om de overeenkomst af te wijzen en LogicMail af te sluiten.";
+ABOUT_LICENSE_ACCEPT#0="Klik op \"Accepteer\" om de voorwaarden van de gebruikersovereenkomst te accepteren, of \"Afwijzen\" om de overeenkomst af te wijzen en LogicMail af te sluiten.";
 ABOUT_TITLE#0="Over";
 ABOUT_URL#0="http://logicmail.org/";
 ACCOUNT_LOCAL_FOLDERS#0="Lokale Folders";
@@ -72,7 +72,7 @@ CONFIG_ACCOUNT_TITLE#0="Account";
 CONFIG_ACCOUNT_TRANSPORT_USE_GLOBAL#0="Standaard";
 CONFIG_ACCOUNT_USERNAME#0="Gebruikersnaam:";
 CONFIG_GLOBAL_AUTO_STARTUP#0="Auto opstarten";
-CONFIG_GLOBAL_CONNECTION_DEBUGGING#0="Connectie debuggen";
+CONFIG_GLOBAL_CONNECTION_DEBUGGING#0="Verbinding debuggen";
 CONFIG_GLOBAL_ENABLE_HANDOVER#0="Schakel naar WiFi bij wijziging dekking";
 CONFIG_GLOBAL_ENABLE_WIFI#0="Gebruik WiFi indien beschikbaar";
 CONFIG_GLOBAL_EXPUNGE_ALWAYS#0="Altijd";
@@ -91,29 +91,29 @@ CONFIG_GLOBAL_MESSAGE_COUNT#0="Bericht aantal:";
 CONFIG_GLOBAL_MESSAGE_FORMAT#0="Voorkeur bericht formaat:";
 CONFIG_GLOBAL_MESSAGE_FORMAT_PLAIN_TEXT#0="Platte tekst";
 CONFIG_GLOBAL_MESSAGE_ORDER#0="Bericht volgorde:";
-CONFIG_GLOBAL_NETWORK_TRANSPORT#0="Connectie methode:";
+CONFIG_GLOBAL_NETWORK_TRANSPORT#0="Verbinding methode:";
 CONFIG_GLOBAL_OVERRIDE_HOSTNAME#0="Negeer hostnaam";
 CONFIG_GLOBAL_PROMPT_ON_MESSAGE_DELETE#0="Vraag bij wissen berichten?";
 CONFIG_GLOBAL_SECTION_MESSAGE_DISPLAY#0="Bericht weergave";
 CONFIG_GLOBAL_SECTION_NETWORKING#0="Netwerken";
 CONFIG_GLOBAL_SECTION_OTHER#0="Anders";
-CONFIG_GLOBAL_SETTINGS#0="Internationale instellingen";
+CONFIG_GLOBAL_SETTINGS#0="Algemene instellingen";
 CONFIG_GLOBAL_SHOW_NOTIFICATION_ICON#0="Toon notificatie ikoon op hoofdscherm";
-CONFIG_GLOBAL_TITLE#0="Internationaal";
+CONFIG_GLOBAL_TITLE#0="Algemeen";
 CONFIG_GLOBAL_TRANSPORT_AUTO#0="Auto";
 CONFIG_GLOBAL_TRANSPORT_DIRECT_TCP#0="Directe TCP";
 CONFIG_GLOBAL_TRANSPORT_MDS#0="MDS";
 CONFIG_GLOBAL_TRANSPORT_WAP2#0="WAP 2.0";
 CONFIG_GLOBAL_TRANSPORT_WIFI_ONLY#0="Alleen WiFi";
 CONFIG_GLOBAL_UNICODE_NORMALIZATION#0="Unicode normalisatie";
-CONFIG_IDENTITIES#0="Identeiten";
+CONFIG_IDENTITIES#0="Identiteiten";
 CONFIG_IDENTITY_DEFAULT_NAME#0="Standaard";
 CONFIG_IDENTITY_EMAIL_ADDRESS#0="E-Mail adres:";
 CONFIG_IDENTITY_FULL_NAME#0="Volledige naam:";
-CONFIG_IDENTITY_IDENTITY#0="Identeit:";
+CONFIG_IDENTITY_IDENTITY#0="Identiteit:";
 CONFIG_IDENTITY_REPLYTO_ADDRESS#0="Beantwoord adres:";
 CONFIG_IDENTITY_SIGNATURE#0="Handtekening:";
-CONFIG_IDENTITY_TITLE#0="Identeit";
+CONFIG_IDENTITY_TITLE#0="Identiteit";
 CONFIG_OUTGOING_AUTHENTICATION#0="Authenticatie:";
 CONFIG_OUTGOING_SERVERS#0="Uitgaande servers";
 CONFIG_OUTGOING_TITLE#0="Uitgaand (SMTP)";
@@ -138,7 +138,7 @@ FOLDER_NAME_OUTBOX#0="Postvak uit";
 FOLDER_NAME_SENT#0="Verzonden";
 FOLDER_NAME_TRASH#0="Prullenbak";
 LOGIN_TITLE#0="Authenticatie";
-MAILBOX_DELETE_PROMPT#0="Weet je zeker dat de dit bericht wilt wissen?";
+MAILBOX_DELETE_PROMPT#0="Weet je zeker dat je dit bericht wilt wissen?";
 MAILBOX_DRAFT_MULTIPLE_ACCOUNTS#0="Vanuit welk account wil je dit bericht verzenden?";
 MAILBOX_EXPUNGE_PROMPT#0="Verwijder gewiste berichten uit de postbus?";
 MAILBOX_INBOX#0="Postvak in";
@@ -146,7 +146,7 @@ MAILBOX_LOAD_MORE_MESSAGES#0="Laad meer berichten...";
 MAILBOX_MARK_ALL_PRIOR_ITEMS_OPENED_PROMPT#0="Markeer alle eerdere items als geopend?";
 MAILCONNECTION_CLOSING_CONNECTION#0="Verbinding sluiten...";
 MAILCONNECTION_OPENING_CONNECTION#0="Verbinding openen...";
-MAILCONNECTION_REQUEST_FOLDER_EXPUNGE#0="Verwijden gewiste berichten...";
+MAILCONNECTION_REQUEST_FOLDER_EXPUNGE#0="Verwijderen gewiste berichten...";
 MAILCONNECTION_REQUEST_FOLDER_MESSAGES#0="Folder berichten ophalen";
 MAILCONNECTION_REQUEST_FOLDER_STATUS#0="Folder status verversen...";
 MAILCONNECTION_REQUEST_FOLDER_TREE#0="Folder structuur ophalen...";
@@ -175,7 +175,7 @@ MENUITEM_CLOSE#0="Sluit";
 MENUITEM_COMPOSE#0="Maak";
 MENUITEM_COMPOSE_EMAIL#0="E-Mail opstellen";
 MENUITEM_CONFIGURATION#0="Configuratie";
-MENUITEM_COPY_TO#0="Kopiër naar...";
+MENUITEM_COPY_TO#0="Kopiëer naar...";
 MENUITEM_DECLINE#0="Afwijzen";
 MENUITEM_DELETE#0="Verwijderen";
 MENUITEM_DELETE_ACCOUNT#0="Verwijder account";
@@ -244,7 +244,7 @@ MESSAGEPROPERTIES_TO#0="Aan:";
 MESSAGERENDERER_UNSUPPORTED#0="Niet-ondersteund type:";
 MESSAGE_ATTACHMENT#0="Bijlage";
 MESSAGE_ATTACHMENTS#0="Bijlagen";
-MESSAGE_FORWARD_CONTENT_PREFIX#0="Originale bericht";
+MESSAGE_FORWARD_CONTENT_PREFIX#0="Originele bericht";
 MESSAGE_LOAD_ALL_PROMPT#0="Dit zal {0} aan data downloaden.  Weet je het zeker?";
 MESSAGE_NOTDISPLAYABLE#0="Dit bericht bevat geen zichtbare onderdelen.";
 MESSAGE_NOT_LOADED#0="Berichten konden niet worden geladen";
@@ -258,7 +258,7 @@ MESSAGE_SELECT_FOLDER_MOVE_TO#0="Kies een folder om dit bericht heen te verplaat
 MESSAGE_SELECT_OUTGOING_SERVER#0="Kies de uitgaande server om dit bericht mee te verzenden:";
 MESSAGE_UNABLE_TO_SAVE_ATTACHMENT#0="Kan de bijlage niet opslaan";
 PERMISSION_EXTERNAL_CONNECTIONS#0="Deze toestemming is vereist om met mailservers te verbinden over het mobiele data netwerk.";
-PERMISSION_FILE_API#0="Toestemming voor opslaan is vereist vor het gebruik van lokale berichten folders an voor het het cachen van gedownloade berichtinhoud.";
+PERMISSION_FILE_API#0="Toestemming voor opslaan is vereist voor het gebruik van lokale berichten folders van voor het het cachen van gedownloade berichtinhoud.";
 PERMISSION_INTERNAL_CONNECTIONS#0="Deze toestemming is vereist om verbinding te maken met mailservers over het BES/MDS data netwerk.";
 PERMISSION_INTER_PROCESS_COMMUNICATION#0="Deze toestemming is vereist om de applicatie de opgeslagen configuratie en cache data te benaderen.";
 PERMISSION_PIM#0="Deze toestemming is vereist om het adresboek te benaderen bij het opstellen van een bericht.";
@@ -268,14 +268,14 @@ WIZARD_FINISH#0="Afronden";
 WIZARD_NEXT#0="Volgende";
 WIZARD_PREV#0="Vorige";
 WIZARD_SCREEN_ACCOUNT_NAME_ACCOUNT_NAME#0="Account naam:";
-WIZARD_SCREEN_FINAL_CONNECTION_FAILED#0="Connectie mislukt";
-WIZARD_SCREEN_FINAL_CONNECTION_SUCCESSFUL#0="Connectie geslaagd";
+WIZARD_SCREEN_FINAL_CONNECTION_FAILED#0="Verbinding mislukt";
+WIZARD_SCREEN_FINAL_CONNECTION_SUCCESSFUL#0="Verbinding geslaagd";
 WIZARD_SCREEN_FINAL_LOGIN_CANCELED#0="Inloggen geannuleerd";
 WIZARD_SCREEN_FINAL_LOGIN_FAILED#0="Inloggen mislukt";
 WIZARD_SCREEN_FINAL_TESTING#0="Testen {0}...";
 WIZARD_SCREEN_FINAL_TEST_CONFIGURATION#0="Test configuratie";
 WIZARD_SCREEN_FINAL_TITLE#0="Afronden";
-WIZARD_SCREEN_INCOMING_PASSWORD_HELP#0="Indien leeg dan wordt je erom gevraagd bij connectie";
+WIZARD_SCREEN_INCOMING_PASSWORD_HELP#0="Indien leeg dan word je erom gevraagd bij verbinding";
 WIZARD_SCREEN_INCOMING_SERVER#0="{0} server:";
 WIZARD_SCREEN_INCOMING_TITLE#0="Inkomende mail server";
 WIZARD_SCREEN_MISC_TITLE#0="Diversen";
@@ -283,8 +283,8 @@ WIZARD_SCREEN_NEW_ACCOUNT_ACCOUNT_TYPE#0="Account type:";
 WIZARD_SCREEN_NEW_ACCOUNT_EMAIL_ADDRESS#0="E-Mail adres:";
 WIZARD_SCREEN_NEW_ACCOUNT_TITLE#0="Nieuw account setup";
 WIZARD_SCREEN_NEW_ACCOUNT_YOUR_NAME#0="Jouw naam:";
-WIZARD_SCREEN_NEW_ACCOUNT_YOUR_NAME_HELP#0="Naam die verschijnt in het Van veld van emailberichten die jij stuurt";
+WIZARD_SCREEN_NEW_ACCOUNT_YOUR_NAME_HELP#0="Naam die verschijnt in het 'VAN' veld van emailberichten die jij stuurt";
 WIZARD_SCREEN_OUTGOING_EMPTY_CONFIRM#0="Ja kan geen mail versturen zonder uitgaande server. Weet je zeker dat je wilt doorgaan?";
 WIZARD_SCREEN_OUTGOING_TITLE#0="Uitgaande mail server";
-WIZARD_SCREEN_TRANSPORT_TITLE#0="Connectie instellingen";
+WIZARD_SCREEN_TRANSPORT_TITLE#0="Verbinding instellingen";
 WIZARD_SCREEN_TRANSPORT_USE_DEFAULT#0="Gebruik standaard instelling";
