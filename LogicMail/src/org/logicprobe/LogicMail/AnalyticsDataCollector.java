@@ -64,7 +64,7 @@ public abstract class AnalyticsDataCollector {
         return instance;
     }
 
-    private static boolean isWebtrendsAvailable() {
+    public static boolean isWebtrendsAvailable() {
         boolean webtrendsAvailable = false;
         try {
             if(Class.forName(WEBTRENDS_UIAPPLICATION) != null) {

@@ -514,7 +514,11 @@ public class ConfigScreen extends AbstractConfigScreen {
         }
         otherFieldManager.add(unicodeNormalizationCheckboxField);
         otherFieldManager.add(connectionDebuggingCheckboxField);
-        otherFieldManager.add(analyticsCheckboxField);
+
+        if(AnalyticsDataCollector.isWebtrendsAvailable()) {
+            otherFieldManager.add(analyticsCheckboxField);
+        }
+
         otherFieldManager.add(new BlankSeparatorField(separatorHeight));
         add(otherFieldManager);
     }
