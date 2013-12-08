@@ -93,11 +93,11 @@
           <fileset refid="@{platformfileset}" />
 
           <!-- NOTE: This line needs to be commented out if building without analytics support -->
-          <fileset file="${webtrends.library}" />
+          <!-- <fileset file="${webtrends.library}" /> -->
         </src>
         
         <!-- NOTE: This line needs to be commented out if building without analytics support -->
-        <import location="${webtrends.library}" />
+        <!-- <import location="${webtrends.library}" /> -->
       
       </rapc>
       <delete file="${dist.dir}/@{platform}/logicmail.png"/>
